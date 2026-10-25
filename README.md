@@ -93,7 +93,9 @@ except requests.HTTPError as e:
 
 ## Pricing
 
-Pay-per-event: $0.001/listing row. No subscription — see the [Actor's pricing tab](https://apify.com/rl1987/propertyguru-sg-api-scraper) for current rates. Apify also includes a free monthly usage tier that covers light use.
+The current price of every event is on the **Pricing** tab of this Actor's page in Apify Store. That tab is generated from the Actor's own pricing record, so it is always current, and your plan's rung is applied automatically. A figure repeated here would be a second copy that drifts out of date.
+
+You can cap what any single run may spend with **Max total charge**.
 
 ## Advanced: longer timeouts & polling
 
